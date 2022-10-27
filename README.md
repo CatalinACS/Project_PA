@@ -5,6 +5,6 @@ The goal of the implementation is to save strength for conquering the entire map
 
 Obtained the 1st prize of the Champions League Competition which took place on 1 June 2022.
 
-Credits to [Andrei Buhnici](https://github.com/AndreiBuhnici) for giving me advices and ideas.
+Credits to [Andrei Buhnici](https://github.com/AndreiBuhnici) and [Alexandru Bala](https://github.com/alex-constantin) for giving me some advices and ideas.
 
 ![My Image](Halite.png)
