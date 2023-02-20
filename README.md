@@ -3,7 +3,7 @@ Implemented in C++ a Halite bot using algorithm design techniques such as Divide
 
 The goal of the implementation is to efficiently save [1] the bot's strength such that the highest score cells will be attacked first.
 
-Obtained the 1st prize of the Champions League Competition which was hosted by ACS-UPB.
+Obtained the 1st prize of the Champions League Competition which was hosted by ACS-UPB (Bucharest, Romania).
 
 Credits to [Andrei Buhnici](https://github.com/AndreiBuhnici) and [Alexandru Bala](https://github.com/alex-constantin) for giving me some advices and ideas.
 
