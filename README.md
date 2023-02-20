@@ -1,4 +1,4 @@
-# Halite-Algorithm-Design-Project
+# 2016-Halite-Algorithm-Design-Project
 Implemented in C++ a Halite bot using algorithm design techniques such as Divide and Conquer, Greedy and Dynamic Programming.
 
 The goal of the implementation is to efficiently save [1] the bot's strength such that the highest score cells will be attacked first.
